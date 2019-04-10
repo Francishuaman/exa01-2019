@@ -1,0 +1,45 @@
+*{
+    padding: 10px;
+}
+hr{
+    padding: 0px;
+}
+#first_Form{
+    width: 40%;
+    height: auto;
+    border: 1px solid gray;
+    float: left;
+}
+input, select{
+    width: 95%;
+    margin-top: 5px;
+}
+label{
+    margin-top: 5px;
+}
+#guardar{
+    width: 20%;
+    margin-left: 40%; 
+    margin-top: 10px;
+}
+#firstTable{
+    width:90%;
+    margin: 10px;
+    border: 1px solid gray;
+}
+#secondTable{
+    width: 90%;
+    margin: 10px;
+    border: 1px solid gray;
+}
+footer{
+    position: absolute;
+    margin-top: 100%;
+}
+.contenedor{
+    width: 55%;
+    margin-left: 10px;
+    margin-top: -10px;
+    border: 1px solid gray;
+    float: left;
+}
